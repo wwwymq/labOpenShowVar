@@ -17,5 +17,6 @@
 		<Item Name="addHead.vi" Type="VI" URL="../addHead.vi"/>
 		<Item Name="writeRequest.vi" Type="VI" URL="../writeRequest.vi"/>
 		<Item Name="readRequest.vi" Type="VI" URL="../readRequest.vi"/>
+		<Item Name="debugReadWrite.vi" Type="VI" URL="../debugReadWrite.vi"/>
 	</Item>
 </Library>
