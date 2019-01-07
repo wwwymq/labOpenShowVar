@@ -16,10 +16,6 @@
 			<Item Name="cswsk32.ocx" Type="Document" URL="../KUKAVARPROXY rev 6.1.0.101/cswsk32.ocx"/>
 			<Item Name="KUKAVARPROXY.exe" Type="Document" URL="../KUKAVARPROXY rev 6.1.0.101/KUKAVARPROXY.exe"/>
 		</Item>
-		<Item Name="demo" Type="Folder">
-			<Item Name="readPOS_ACT.vi" Type="VI" URL="../readPOS_ACT.vi"/>
-			<Item Name="simpleReadWrite.vi" Type="VI" URL="../simpleReadWrite.vi"/>
-		</Item>
 		<Item Name="labOpenShowVar.lvlib" Type="Library" URL="../labOpenShowVar.lvlib"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
